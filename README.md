@@ -85,14 +85,14 @@ I’m a student developer with hands-on experience in web development and machin
 **Tools:** Git, Linux/Unix, SQL, Unity
 
 ---
-
+<!--
 ## GitHub Activity
 
 ![GitHub Stats](https://stats-github-readme.vercel.app/api?username=sloanatkins&show_icons=true)
 
 ![Top Languages](https://stats-github-readme.vercel.app/api/top-langs/?username=sloanatkins&layout=compact)
-
----
+-->
+---//
 
 ## Links
 - GitHub: https://github.com/sloanatkins
