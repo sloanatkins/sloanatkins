@@ -87,8 +87,10 @@ I’m a student developer with hands-on experience in web development and machin
 ---
 
 ## GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sloanatkins&show_icons=true&hide_title=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sloanatkins&layout=compact&theme=github_dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sloanatkins&show_icons=true&theme=default&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sloanatkins&layout=compact&theme=default&cache_seconds=86400)
 
 ---
 
