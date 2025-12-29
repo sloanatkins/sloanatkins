@@ -45,7 +45,7 @@ I’m a student developer with hands-on experience in web development and machin
         and performance-oriented problem solving.
       </p>
       <p><strong>Tech:</strong> C, C++, Python, Java</p>
-      <a href="https://github.com/sloanatkins/REPLACE-WITH-REPO">
+      <a href="https://github.com/sloanatkins/systems-programming-unix-c">
         View Repository →
       </a>
     </td>
