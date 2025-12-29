@@ -7,7 +7,7 @@ Computer Science and Mathematics student at the University of Miami focused on b
 ---
 
 ## About
-I’m a student developer with hands-on experience in web development and machine learning research. I enjoy working close to fundamentals, writing readable code, and building projects that solve real problems.
+I am a student developer with hands-on experience in web development and machine learning research. I enjoy working close to fundamentals, writing readable code, and building projects that solve real problems.
 
 - Based in Florida
 - Interested in software engineering and web development internships
