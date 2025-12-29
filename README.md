@@ -95,6 +95,7 @@ I’m a student developer with hands-on experience in web development and machin
 -->
 
 ## Links
+- Resume: https://sloan-portfolio.web.app
 - GitHub: https://github.com/sloanatkins
 - LinkedIn: https://www.linkedin.com/in/sloan-atkins/
 - Email: sloanatkins@gmail.com
