@@ -1,4 +1,4 @@
-![Banner](./banner.png)
+![Banner](./banners.png)
 
 # Sloan Atkins
 
