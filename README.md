@@ -6,6 +6,23 @@ Computer Science and Mathematics student at the University of Miami focused on b
 
 ---
 
+## About
+I’m a student developer with hands-on experience in web development and machine learning research. I enjoy working close to fundamentals, writing readable code, and building projects that solve real problems.
+
+- Based in Florida
+- Interested in software engineering and web development internships
+- Strong interest in systems, algorithms, and applied machine learning
+
+---
+
+## Technical Focus
+- Web applications with clean UI and responsive design
+- Data analysis and machine learning pipelines
+- Systems programming and performance-oriented coursework
+- Collaborative development using Git and structured workflows
+
+---
+
 ## Featured Projects
 
 <table>
@@ -71,6 +88,7 @@ Computer Science and Mathematics student at the University of Miami focused on b
 
 ## GitHub Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sloanatkins&show_icons=true&hide_title=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sloanatkins&layout=compact&theme=github_dark)
 
 ---
 
