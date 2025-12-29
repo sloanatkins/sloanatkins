@@ -69,7 +69,7 @@ I’m a student developer with hands-on experience in web development and machin
         systems design, and user interaction.
       </p>
       <p><strong>Tech:</strong> Unity, C#, JavaScript</p>
-      <a href="https://github.com/sloanatkins/REPLACE-WITH-REPO">
+      <a href="https://github.com/sloanatkins/game-programming-unity">
         View Repository →
       </a>
     </td>
