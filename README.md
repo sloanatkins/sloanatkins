@@ -63,7 +63,7 @@ I am a student developer with hands-on experience in web development and machine
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Game & Interactive Projects</h3>
+      <h3>Games & Interactive Projects</h3>
       <p>
         Interactive and game-focused projects exploring gameplay mechanics,
         systems design, and user interaction.
