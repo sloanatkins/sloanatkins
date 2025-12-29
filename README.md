@@ -34,7 +34,7 @@ I’m a student developer with hands-on experience in web development and machin
         authentication and real-time data storage.
       </p>
       <p><strong>Tech:</strong> HTML, CSS, JavaScript, Firebase</p>
-      <a href="https://github.com/sloanatkins/REPLACE-WITH-REPO">
+      <a href="https://github.com/sloanatkins/recipe-book-web-app">
         View Repository →
       </a>
     </td>
