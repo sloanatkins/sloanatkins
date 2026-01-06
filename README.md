@@ -58,7 +58,7 @@ I am a student developer with hands-on experience in web development and machine
         including dimensionality reduction and clustering.
       </p>
       <p><strong>Tech:</strong> Python, PyTorch, NumPy, Pandas</p>
-      <a href="https://github.com/sloanatkins/computational-chemistry-ml-researchO">
+      <a href="https://github.com/sloanatkins/computational-chemistry-ml-research">
         View Repository →
       </a>
     </td>
